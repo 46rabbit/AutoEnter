@@ -1,3 +1,5 @@
+![Icon](AutoEnterIcon.png)
+
 # AutoEnter
 Welcomme to the AutoEnter Github page!
 
