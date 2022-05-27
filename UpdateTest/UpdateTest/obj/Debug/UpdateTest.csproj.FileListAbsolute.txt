@@ -1,0 +1,13 @@
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\bin\Debug\UpdateTest.exe.config
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\bin\Debug\UpdateTest.exe
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\bin\Debug\UpdateTest.pdb
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.csproj.AssemblyReference.cache
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.Form1.resources
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.Properties.Resources.resources
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.csproj.GenerateResource.cache
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.csproj.CoreCompileInputs.cache
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.exe
+C:\Users\engfa\source\repos\UpdateTest\UpdateTest\obj\Debug\UpdateTest.pdb
+C:\Users\engfa\Desktop\TestFolder\UpdateTest.exe.config
+C:\Users\engfa\Desktop\TestFolder\UpdateTest.exe
+C:\Users\engfa\Desktop\TestFolder\UpdateTest.pdb
