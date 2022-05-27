@@ -1,0 +1,23 @@
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.exe.config
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.exe
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.pdb
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.AssemblyReference.cache
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.Form1.resources
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.Properties.Resources.resources
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.GenerateResource.cache
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.CoreCompileInputs.cache
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.exe
+C:\Users\engfa\source\repos\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.pdb
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.exe.config
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.exe
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\bin\Debug\auto_enter_socketSERVER.pdb
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.AssemblyReference.cache
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.Form1.resources
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.Properties.Resources.resources
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.GenerateResource.cache
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.csproj.CoreCompileInputs.cache
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.exe
+D:\백업\auto_enter_socketSERVER\auto_enter_socketSERVER\obj\Debug\auto_enter_socketSERVER.pdb
+C:\Users\engfa\Desktop\대회 시연용 자료\auto_enter_socketSERVER.exe.config
+C:\Users\engfa\Desktop\대회 시연용 자료\auto_enter_socketSERVER.exe
+C:\Users\engfa\Desktop\대회 시연용 자료\auto_enter_socketSERVER.pdb

@@ -1,0 +1,24 @@
+C:\Users\engfa\source\repos\client test\client test\bin\Release\client test.exe.config
+C:\Users\engfa\source\repos\client test\client test\bin\Release\client test.exe
+C:\Users\engfa\source\repos\client test\client test\bin\Release\client test.pdb
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client test.csproj.AssemblyReference.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client_test.Form1.resources
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client_test.Properties.Resources.resources
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client test.csproj.GenerateResource.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client test.csproj.CoreCompileInputs.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client test.exe
+C:\Users\engfa\source\repos\client test\client test\obj\Release\client test.pdb
+C:\Users\engfa\Desktop\client test.exe.config
+C:\Users\engfa\Desktop\client test.exe
+C:\Users\engfa\Desktop\client test.pdb
+D:\Desktop\client test.exe.config
+D:\Desktop\client test.exe
+D:\Desktop\client test.pdb
+D:\백업\client test\client test\obj\Release\client test.csproj.AssemblyReference.cache
+D:\백업\client test\client test\obj\Release\client_test.Form1.resources
+D:\백업\client test\client test\obj\Release\client_test.Properties.Resources.resources
+D:\백업\client test\client test\obj\Release\client_test.Writer.resources
+D:\백업\client test\client test\obj\Release\client test.csproj.GenerateResource.cache
+D:\백업\client test\client test\obj\Release\client test.csproj.CoreCompileInputs.cache
+D:\백업\client test\client test\obj\Release\client test.exe
+D:\백업\client test\client test\obj\Release\client test.pdb

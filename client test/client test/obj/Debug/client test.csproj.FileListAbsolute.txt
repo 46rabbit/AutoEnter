@@ -1,0 +1,25 @@
+C:\Users\engfa\source\repos\client test\client test\bin\Debug\client test.exe.config
+C:\Users\engfa\source\repos\client test\client test\bin\Debug\client test.exe
+C:\Users\engfa\source\repos\client test\client test\bin\Debug\client test.pdb
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client_test.Form1.resources
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client_test.Properties.Resources.resources
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client test.csproj.GenerateResource.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client test.csproj.CoreCompileInputs.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client test.exe
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client test.pdb
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client test.csproj.AssemblyReference.cache
+C:\Users\engfa\source\repos\client test\client test\obj\Debug\client_test.Writer.resources
+D:\백업\client test\client test\bin\Debug\client test.exe.config
+D:\백업\client test\client test\bin\Debug\client test.exe
+D:\백업\client test\client test\bin\Debug\client test.pdb
+D:\백업\client test\client test\obj\Debug\client test.csproj.AssemblyReference.cache
+D:\백업\client test\client test\obj\Debug\client_test.Form1.resources
+D:\백업\client test\client test\obj\Debug\client_test.Properties.Resources.resources
+D:\백업\client test\client test\obj\Debug\client_test.Writer.resources
+D:\백업\client test\client test\obj\Debug\client test.csproj.GenerateResource.cache
+D:\백업\client test\client test\obj\Debug\client test.csproj.CoreCompileInputs.cache
+D:\백업\client test\client test\obj\Debug\client test.exe
+D:\백업\client test\client test\obj\Debug\client test.pdb
+C:\Users\engfa\Desktop\대회 시연용 자료\client test.exe.config
+C:\Users\engfa\Desktop\대회 시연용 자료\client test.exe
+C:\Users\engfa\Desktop\대회 시연용 자료\client test.pdb
