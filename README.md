@@ -1,11 +1,13 @@
 ![Icon](AutoEnterIcon.png)
 
 # AutoEnter
-Welcomme to the AutoEnter Github page!
+오토엔터 깃헙 페이지에 오신 것을 환영합니다.
 
-# Features
-- Able to automatically enter zoomm classes(also possible in other software)
-- Able to realign time table through GUI
-- Able to edit time table items through GUI
+# 주요 기능
+- 줌 통화방에 설정된 시간에 맞추어 자동으로 입장할 수 있습니다
 
-- Able to get notifications or changed time table info through TCP comms(needs a aserver and manager client)
+# 부가 기능
+- 시간표를 프로그램 내에서 작성하고, 사용할 수 있습니다.
+- 프로그램 실행 중 시간표의 수정, 추가, 삭제등 기능을 지원합니다. (수업 중 시간표 변화 시 대응 가능)
+- 백그라운드 실행이 가능합니다.
+
